@@ -1,3 +1,5 @@
+_**open the terminal navigated into this project folder and run npm install this will install all the third party packages which are required since the attached folder doesn't come with a node_modules folder.**_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
